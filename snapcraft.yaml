@@ -1,0 +1,18 @@
+name: Birdture
+base: core18 
+version: '1.1' 
+summary: Struggle of the FutureBird
+description: |
+  Help The Future Bird in struggle for life with your voice: try to escape from the monsters by calling out.
+
+Stay on cars and clouds that is come your way and some rest.
+
+Enjoy the game by collecting monetary awards. Have Fun...
+
+grade: stable
+confinement: strict
+
+parts:
+  my-part:
+    # See 'snapcraft plugins'
+    plugin: nil
